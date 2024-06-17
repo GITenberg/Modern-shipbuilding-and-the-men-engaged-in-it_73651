@@ -1,5 +1,8 @@
 _repo: Modern-shipbuilding-and-the-men-engaged-in-it_73651
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73651-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollock, David
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '57166'
     url: http://www.gutenberg.org/2009/agents/57166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73651#Modern-shipbuilding-and-the-men-engaged-in-it
 gutenberg_issued: '2024-05-19'
 gutenberg_type: Text
 identifiers:
